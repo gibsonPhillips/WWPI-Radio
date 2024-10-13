@@ -1,0 +1,6 @@
+nav {
+    background: paleturquoise;
+    display: flex;
+    flex-direction: column;
+    gap: 10%;
+}
